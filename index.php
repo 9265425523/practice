@@ -1,3 +1,3 @@
 <?php
-        exho "Hello Mohammad Nedariya";
+        echo "Hello hammad";
 ?>
